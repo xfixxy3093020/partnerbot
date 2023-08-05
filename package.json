@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-	"discordd.jss":"^1.6.8",
-	"discordd":"^1.6.8",
+    "discordd.jss":"^1.6.8",
+    "discordd":"^1.6.8",
     "body-parser": "^1.19.0",
     "croxydb": "0.0.7",
     "discord.js": "^12.5.3",
